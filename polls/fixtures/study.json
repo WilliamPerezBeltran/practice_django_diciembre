@@ -1,0 +1,52 @@
+[
+  {
+    "model": "polls.Study",
+    "pk": 1,
+    "fields": {
+      "name": "John"
+    }
+  },
+  {
+    "model": "polls.Study",
+    "pk": 2,
+    "fields": {
+      "name": "Paul"
+    }
+  },
+  {
+    "model": "polls.Study",
+    "pk": 3,
+    "fields": {
+      "name": "william"
+    }
+  },
+  {
+    "model": "polls.Study",
+    "pk": 4,
+    "fields": {
+      "name": "rocio"
+    }
+  },
+  {
+    "model": "polls.Study",
+    "pk": 5,
+    "fields": {
+      "name": "camilo"
+    }
+  },
+  {
+    "model": "polls.Study",
+    "pk": 6,
+    "fields": {
+      "name": "roberto"
+    }
+  },
+  {
+    "model": "polls.Study",
+    "pk": 7,
+    "fields": {
+      "name": "karen"
+    }
+  }
+
+]
